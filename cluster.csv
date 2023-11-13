@@ -1,0 +1,1001 @@
+,Wave,Age,Gender,Location,MajorCategory,Category,Channel,Budget,InteractionType,TotalSales
+0,1,C,F,Tier 2,Skincare,Lotions,Online,100000,Click,100000
+1,1,B,M,Tier 5,Skincare,Lipstick,Online,100000,View,750000
+2,1,F,M,Tier 5,Makeup,Serums,Mobile,375000,Basket Add,100000
+3,1,E,M,Tier 2,Skincare,Foundation,Social Media,375000,Click,375000
+4,1,E,F,Tier 2,Makeup,Foundation,Online,25000,View,375000
+5,1,D,F,Tier 4,Makeup,Lipstick,Social Media,200000,Click,200000
+6,1,C,F,Tier 3,Makeup,Lipstick,B&M,375000,View,100000
+7,1,C,M,Tier 5,Makeup,Foundation,Mobile,25000,View,750000
+8,1,C,F,Tier 4,Makeup,Lotions,Social Media,25000,Purchase,25000
+9,1,E,F,Tier 3,Makeup,Serums,Mobile,375000,Basket Add,750000
+10,1,F,F,Tier 4,Skincare,Lipstick,B&M,25000,Click,25000
+11,1,E,M,Tier 3,Skincare,Foundation,Social Media,25000,Basket Add,100000
+12,1,F,M,Tier 1,Makeup,Lotions,Social Media,750000,Basket Add,375000
+13,1,F,M,Tier 4,Skincare,Lipstick,Mobile,200000,Purchase,200000
+14,1,A,F,Tier 2,Skincare,Serums,Mobile,25000,Click,750000
+15,1,F,F,Tier 5,Makeup,Lipstick,Online,750000,Basket Add,100000
+16,1,C,M,Tier 4,Skincare,Foundation,Mobile,200000,Basket Add,100000
+17,1,F,F,Tier 3,Makeup,Serums,Mobile,100000,Basket Add,25000
+18,1,A,M,Tier 3,Skincare,Serums,Mobile,200000,Click,100000
+19,1,F,F,Tier 3,Skincare,Foundation,B&M,750000,Basket Add,375000
+20,1,D,M,Tier 3,Skincare,Serums,B&M,375000,Click,100000
+21,1,C,M,Tier 4,Makeup,Serums,Social Media,750000,Click,375000
+22,1,E,M,Tier 5,Skincare,Lipstick,Online,375000,Purchase,100000
+23,1,E,F,Tier 4,Makeup,Foundation,Social Media,25000,Purchase,25000
+24,1,D,F,Tier 3,Makeup,Serums,Online,375000,Purchase,375000
+25,1,A,M,Tier 3,Makeup,Lotions,Mobile,25000,Click,375000
+26,1,A,M,Tier 1,Skincare,Serums,B&M,750000,Purchase,750000
+27,1,A,F,Tier 3,Makeup,Foundation,Mobile,100000,View,200000
+28,1,D,F,Tier 2,Makeup,Serums,Online,25000,Basket Add,25000
+29,1,B,M,Tier 2,Skincare,Foundation,B&M,100000,Click,750000
+30,1,D,F,Tier 4,Skincare,Lipstick,Mobile,25000,Basket Add,100000
+31,1,E,M,Tier 1,Makeup,Lipstick,Mobile,375000,Purchase,200000
+32,1,E,F,Tier 2,Makeup,Serums,B&M,25000,Basket Add,200000
+33,1,E,F,Tier 3,Skincare,Serums,Online,100000,View,25000
+34,1,B,M,Tier 3,Skincare,Foundation,Online,375000,Purchase,375000
+35,1,E,F,Tier 2,Makeup,Serums,Online,375000,Purchase,375000
+36,1,D,M,Tier 4,Makeup,Lotions,B&M,100000,Purchase,375000
+37,1,F,M,Tier 4,Skincare,Serums,Online,375000,Purchase,200000
+38,1,A,M,Tier 5,Makeup,Foundation,Mobile,200000,View,375000
+39,1,E,F,Tier 4,Makeup,Lotions,B&M,100000,View,100000
+40,1,C,F,Tier 5,Makeup,Lotions,Mobile,25000,Basket Add,25000
+41,1,C,F,Tier 1,Makeup,Serums,Social Media,375000,Purchase,750000
+42,1,D,F,Tier 4,Skincare,Foundation,Online,100000,Basket Add,375000
+43,1,F,F,Tier 3,Makeup,Foundation,Social Media,375000,Basket Add,200000
+44,1,B,M,Tier 2,Skincare,Foundation,Social Media,750000,Basket Add,200000
+45,1,F,F,Tier 4,Skincare,Lipstick,Mobile,200000,Click,375000
+46,1,E,F,Tier 1,Makeup,Lipstick,Mobile,25000,View,750000
+47,1,B,M,Tier 4,Skincare,Lotions,B&M,100000,Purchase,375000
+48,1,D,F,Tier 2,Skincare,Lipstick,Mobile,25000,Purchase,750000
+49,1,C,M,Tier 3,Skincare,Lipstick,B&M,25000,Purchase,200000
+50,1,E,F,Tier 2,Skincare,Lipstick,B&M,375000,Click,25000
+51,1,F,M,Tier 1,Makeup,Serums,Social Media,750000,Click,100000
+52,1,E,M,Tier 3,Makeup,Serums,B&M,200000,Click,375000
+53,1,D,M,Tier 4,Makeup,Lotions,B&M,750000,Basket Add,375000
+54,1,A,F,Tier 2,Makeup,Lipstick,Online,100000,Basket Add,200000
+55,1,D,M,Tier 2,Makeup,Lotions,Mobile,100000,Basket Add,375000
+56,1,B,M,Tier 2,Skincare,Lipstick,B&M,25000,Basket Add,25000
+57,1,A,F,Tier 2,Skincare,Lipstick,B&M,375000,Basket Add,100000
+58,1,F,F,Tier 3,Skincare,Lotions,Online,25000,Basket Add,750000
+59,1,B,M,Tier 1,Makeup,Lotions,B&M,750000,View,375000
+60,1,C,M,Tier 5,Skincare,Lotions,Social Media,100000,Purchase,100000
+61,1,B,M,Tier 1,Makeup,Lotions,Social Media,750000,Click,750000
+62,1,A,M,Tier 1,Makeup,Foundation,Social Media,375000,View,375000
+63,1,A,F,Tier 3,Skincare,Lotions,Mobile,375000,View,750000
+64,1,E,M,Tier 1,Makeup,Serums,Social Media,25000,Click,375000
+65,1,F,M,Tier 3,Skincare,Foundation,Mobile,375000,Purchase,100000
+66,1,F,F,Tier 3,Makeup,Foundation,Online,375000,View,375000
+67,1,D,M,Tier 1,Skincare,Lipstick,B&M,375000,Purchase,25000
+68,1,B,M,Tier 3,Skincare,Foundation,Online,750000,Click,375000
+69,1,C,F,Tier 1,Makeup,Lipstick,Social Media,25000,Basket Add,100000
+70,1,F,F,Tier 4,Makeup,Serums,Mobile,200000,Click,375000
+71,1,F,M,Tier 2,Skincare,Lotions,Online,375000,View,375000
+72,1,E,M,Tier 5,Makeup,Foundation,Social Media,25000,Basket Add,750000
+73,1,E,M,Tier 2,Makeup,Serums,Mobile,750000,Basket Add,100000
+74,1,B,F,Tier 4,Skincare,Serums,Online,100000,Basket Add,200000
+75,1,F,F,Tier 4,Skincare,Lotions,Online,25000,Click,750000
+76,1,D,F,Tier 2,Makeup,Lipstick,Mobile,750000,View,375000
+77,1,E,M,Tier 1,Skincare,Serums,Social Media,25000,View,200000
+78,1,F,F,Tier 1,Makeup,Serums,Mobile,25000,Basket Add,375000
+79,1,D,M,Tier 3,Skincare,Lipstick,B&M,25000,Click,200000
+80,1,C,F,Tier 2,Makeup,Foundation,B&M,375000,View,100000
+81,1,A,F,Tier 5,Makeup,Lipstick,Social Media,200000,Purchase,25000
+82,1,B,M,Tier 1,Skincare,Lipstick,B&M,375000,Basket Add,375000
+83,1,D,M,Tier 5,Makeup,Serums,Mobile,750000,Basket Add,100000
+84,1,A,F,Tier 2,Skincare,Serums,Mobile,25000,Basket Add,25000
+85,1,A,M,Tier 1,Makeup,Serums,Mobile,750000,View,100000
+86,1,A,F,Tier 5,Skincare,Lotions,Social Media,25000,Click,200000
+87,1,A,F,Tier 3,Makeup,Foundation,B&M,25000,Click,200000
+88,1,E,M,Tier 1,Skincare,Lipstick,Online,375000,Click,200000
+89,1,C,M,Tier 3,Skincare,Serums,Social Media,100000,View,375000
+90,1,F,F,Tier 2,Skincare,Lotions,B&M,750000,Purchase,375000
+91,1,D,M,Tier 5,Makeup,Foundation,Online,750000,View,750000
+92,1,E,M,Tier 3,Makeup,Foundation,B&M,25000,Basket Add,100000
+93,1,E,M,Tier 5,Skincare,Lipstick,Online,200000,Purchase,750000
+94,1,E,F,Tier 1,Makeup,Serums,B&M,25000,Click,375000
+95,1,F,M,Tier 5,Skincare,Serums,Mobile,375000,Basket Add,25000
+96,1,D,F,Tier 4,Skincare,Foundation,Mobile,375000,Purchase,200000
+97,1,C,F,Tier 3,Makeup,Serums,Social Media,200000,Click,200000
+98,1,B,F,Tier 3,Skincare,Lipstick,Online,25000,Basket Add,375000
+99,1,A,M,Tier 4,Makeup,Lotions,Online,375000,Purchase,750000
+100,2,D,F,Tier 3,Makeup,Serums,Online,750000,Basket Add,750000
+101,2,C,M,Tier 1,Skincare,Lotions,Mobile,25000,Click,25000
+102,2,E,F,Tier 5,Skincare,Lotions,Online,25000,Click,375000
+103,2,F,M,Tier 5,Makeup,Foundation,B&M,200000,Basket Add,200000
+104,2,E,M,Tier 1,Skincare,Foundation,B&M,750000,Basket Add,375000
+105,2,D,F,Tier 3,Makeup,Lipstick,Online,375000,Click,100000
+106,2,D,M,Tier 3,Makeup,Foundation,B&M,25000,Purchase,750000
+107,2,D,F,Tier 4,Makeup,Lipstick,B&M,25000,Click,25000
+108,2,A,M,Tier 3,Makeup,Serums,Mobile,750000,View,200000
+109,2,F,F,Tier 1,Skincare,Serums,Social Media,25000,View,100000
+110,2,D,M,Tier 2,Makeup,Lipstick,Social Media,200000,Click,100000
+111,2,E,F,Tier 2,Skincare,Lotions,Online,100000,Click,750000
+112,2,A,F,Tier 1,Makeup,Lipstick,Mobile,100000,Basket Add,200000
+113,2,E,F,Tier 5,Makeup,Foundation,B&M,200000,Click,100000
+114,2,D,M,Tier 5,Makeup,Foundation,Mobile,25000,Basket Add,25000
+115,2,D,F,Tier 5,Makeup,Serums,B&M,200000,Basket Add,375000
+116,2,B,F,Tier 2,Skincare,Foundation,Online,25000,Basket Add,750000
+117,2,D,F,Tier 4,Skincare,Lipstick,Online,25000,Basket Add,100000
+118,2,D,F,Tier 4,Skincare,Foundation,Social Media,25000,View,750000
+119,2,F,M,Tier 4,Makeup,Foundation,Online,375000,Purchase,375000
+120,2,D,M,Tier 4,Makeup,Lotions,Social Media,750000,View,375000
+121,2,C,F,Tier 2,Skincare,Serums,Online,375000,Basket Add,750000
+122,2,E,M,Tier 1,Makeup,Foundation,B&M,375000,Purchase,375000
+123,2,D,F,Tier 4,Makeup,Foundation,Online,100000,View,375000
+124,2,D,F,Tier 1,Makeup,Lotions,Social Media,750000,Basket Add,25000
+125,2,F,F,Tier 1,Makeup,Serums,B&M,200000,Purchase,200000
+126,2,C,F,Tier 4,Skincare,Serums,B&M,25000,Click,25000
+127,2,E,M,Tier 4,Skincare,Lotions,Mobile,375000,View,375000
+128,2,C,F,Tier 5,Makeup,Serums,Online,200000,Purchase,375000
+129,2,E,F,Tier 3,Skincare,Foundation,B&M,100000,View,100000
+130,2,A,M,Tier 1,Skincare,Lotions,Online,375000,Click,750000
+131,2,E,F,Tier 1,Makeup,Serums,Mobile,200000,View,750000
+132,2,A,M,Tier 4,Skincare,Lotions,Online,25000,Basket Add,375000
+133,2,C,M,Tier 4,Makeup,Lipstick,Mobile,25000,Click,750000
+134,2,E,M,Tier 3,Skincare,Lipstick,Mobile,100000,Purchase,25000
+135,2,F,F,Tier 3,Skincare,Lotions,B&M,750000,Basket Add,200000
+136,2,E,M,Tier 3,Makeup,Foundation,Social Media,200000,Click,200000
+137,2,D,F,Tier 2,Skincare,Foundation,Online,750000,Purchase,100000
+138,2,B,M,Tier 5,Makeup,Foundation,Mobile,100000,Basket Add,25000
+139,2,C,F,Tier 4,Skincare,Foundation,B&M,25000,View,375000
+140,2,B,M,Tier 4,Skincare,Lipstick,Mobile,375000,Basket Add,200000
+141,2,D,F,Tier 1,Skincare,Serums,Mobile,200000,View,375000
+142,2,A,M,Tier 4,Makeup,Serums,Mobile,25000,Basket Add,750000
+143,2,A,M,Tier 2,Skincare,Serums,B&M,375000,Click,375000
+144,2,F,F,Tier 2,Makeup,Serums,Social Media,200000,Basket Add,200000
+145,2,F,F,Tier 4,Skincare,Lotions,B&M,200000,Basket Add,375000
+146,2,E,M,Tier 5,Makeup,Lipstick,Online,750000,Purchase,25000
+147,2,D,M,Tier 1,Makeup,Lipstick,Mobile,25000,Click,200000
+148,2,B,F,Tier 2,Skincare,Lotions,Online,375000,View,100000
+149,2,C,F,Tier 3,Makeup,Foundation,B&M,750000,Basket Add,750000
+150,2,D,F,Tier 5,Skincare,Lipstick,Online,200000,Click,100000
+151,2,E,F,Tier 4,Makeup,Lotions,Social Media,200000,Basket Add,200000
+152,2,C,M,Tier 1,Skincare,Foundation,B&M,375000,Purchase,750000
+153,2,A,M,Tier 3,Makeup,Serums,Online,750000,View,750000
+154,2,C,M,Tier 2,Skincare,Lipstick,B&M,100000,View,375000
+155,2,D,M,Tier 4,Skincare,Lipstick,B&M,25000,Click,200000
+156,2,C,F,Tier 5,Skincare,Serums,Social Media,25000,Purchase,375000
+157,2,B,F,Tier 5,Makeup,Foundation,Mobile,375000,Click,200000
+158,2,D,F,Tier 4,Skincare,Lotions,Social Media,100000,Basket Add,25000
+159,2,A,F,Tier 4,Makeup,Lotions,Social Media,750000,View,25000
+160,2,D,F,Tier 3,Skincare,Lotions,Social Media,375000,Purchase,100000
+161,2,D,F,Tier 4,Skincare,Serums,Mobile,200000,Click,750000
+162,2,E,M,Tier 4,Makeup,Lipstick,Mobile,200000,Purchase,200000
+163,2,D,F,Tier 3,Skincare,Serums,B&M,25000,Purchase,100000
+164,2,D,M,Tier 5,Makeup,Lipstick,Online,25000,Click,200000
+165,2,B,M,Tier 4,Skincare,Lipstick,Online,200000,Click,750000
+166,2,E,M,Tier 2,Skincare,Foundation,Online,750000,Click,375000
+167,2,A,F,Tier 1,Makeup,Serums,Mobile,750000,Click,25000
+168,2,E,M,Tier 1,Skincare,Lipstick,Mobile,100000,Click,750000
+169,2,C,F,Tier 2,Skincare,Lotions,Mobile,100000,View,25000
+170,2,F,F,Tier 5,Skincare,Foundation,Social Media,100000,View,750000
+171,2,A,F,Tier 1,Makeup,Lipstick,Mobile,100000,View,750000
+172,2,B,F,Tier 4,Makeup,Serums,Online,100000,Purchase,100000
+173,2,F,M,Tier 4,Skincare,Serums,B&M,25000,View,200000
+174,2,C,F,Tier 3,Skincare,Foundation,Mobile,25000,View,750000
+175,2,E,F,Tier 3,Skincare,Lipstick,Mobile,100000,View,100000
+176,2,B,M,Tier 3,Skincare,Lipstick,B&M,100000,Purchase,25000
+177,2,F,F,Tier 3,Skincare,Lotions,Social Media,375000,Click,100000
+178,2,D,M,Tier 4,Skincare,Foundation,Online,25000,View,750000
+179,2,B,M,Tier 3,Makeup,Lotions,Mobile,25000,Purchase,25000
+180,2,E,F,Tier 4,Makeup,Lotions,B&M,25000,View,750000
+181,2,E,F,Tier 3,Makeup,Serums,Mobile,375000,Purchase,100000
+182,2,A,M,Tier 2,Makeup,Lipstick,Social Media,200000,Basket Add,25000
+183,2,C,M,Tier 1,Makeup,Serums,Social Media,25000,Basket Add,375000
+184,2,D,F,Tier 1,Skincare,Lotions,Mobile,100000,View,750000
+185,2,B,F,Tier 1,Skincare,Lipstick,Online,25000,Purchase,25000
+186,2,F,F,Tier 4,Skincare,Lotions,Mobile,25000,Purchase,100000
+187,2,B,M,Tier 1,Skincare,Foundation,Mobile,750000,Purchase,100000
+188,2,F,F,Tier 1,Skincare,Lotions,Mobile,25000,View,750000
+189,2,B,F,Tier 2,Makeup,Lipstick,B&M,375000,Click,25000
+190,2,D,M,Tier 3,Skincare,Lotions,Online,750000,View,750000
+191,2,F,F,Tier 3,Makeup,Lotions,B&M,750000,View,25000
+192,2,D,F,Tier 5,Skincare,Lotions,Online,200000,Basket Add,375000
+193,2,E,F,Tier 1,Makeup,Serums,B&M,750000,Purchase,750000
+194,2,D,F,Tier 4,Skincare,Serums,Online,100000,Basket Add,100000
+195,2,D,M,Tier 3,Skincare,Serums,B&M,750000,Click,25000
+196,2,F,M,Tier 5,Makeup,Lotions,B&M,25000,Basket Add,750000
+197,2,B,F,Tier 4,Skincare,Foundation,Online,375000,View,375000
+198,2,A,F,Tier 4,Makeup,Serums,Online,25000,Basket Add,375000
+199,2,F,M,Tier 4,Skincare,Lotions,B&M,750000,Click,25000
+200,3,B,M,Tier 2,Skincare,Foundation,B&M,25000,Purchase,100000
+201,3,C,F,Tier 5,Makeup,Serums,Social Media,200000,Purchase,200000
+202,3,F,F,Tier 3,Makeup,Foundation,B&M,750000,Purchase,200000
+203,3,C,M,Tier 3,Makeup,Lipstick,B&M,750000,View,25000
+204,3,A,M,Tier 3,Skincare,Lipstick,Mobile,750000,Basket Add,100000
+205,3,F,M,Tier 3,Makeup,Lipstick,Online,750000,Purchase,25000
+206,3,D,F,Tier 3,Makeup,Lotions,Online,200000,Purchase,25000
+207,3,C,M,Tier 2,Makeup,Lotions,Online,25000,Click,25000
+208,3,F,M,Tier 4,Skincare,Serums,Mobile,200000,View,25000
+209,3,A,F,Tier 4,Skincare,Foundation,B&M,750000,Click,375000
+210,3,B,M,Tier 3,Makeup,Foundation,B&M,100000,Purchase,100000
+211,3,B,M,Tier 1,Makeup,Foundation,Mobile,200000,Purchase,750000
+212,3,C,M,Tier 1,Skincare,Serums,Social Media,750000,Click,750000
+213,3,B,M,Tier 3,Makeup,Serums,Online,375000,Click,200000
+214,3,B,M,Tier 5,Skincare,Lotions,Online,375000,Click,100000
+215,3,D,M,Tier 1,Makeup,Lotions,Online,25000,Purchase,200000
+216,3,A,M,Tier 2,Makeup,Lipstick,Social Media,750000,Basket Add,100000
+217,3,C,F,Tier 4,Makeup,Foundation,Online,25000,Click,375000
+218,3,D,M,Tier 4,Makeup,Lipstick,B&M,200000,Purchase,200000
+219,3,D,F,Tier 5,Makeup,Lotions,Mobile,200000,Click,25000
+220,3,C,M,Tier 2,Makeup,Lipstick,Social Media,100000,View,100000
+221,3,A,F,Tier 3,Makeup,Lotions,Online,25000,View,100000
+222,3,C,M,Tier 1,Skincare,Lipstick,Social Media,200000,Click,750000
+223,3,A,F,Tier 1,Skincare,Serums,B&M,200000,View,375000
+224,3,B,F,Tier 2,Makeup,Serums,Online,375000,Purchase,200000
+225,3,E,F,Tier 3,Skincare,Foundation,B&M,200000,Basket Add,200000
+226,3,F,F,Tier 2,Makeup,Lipstick,Mobile,750000,View,200000
+227,3,B,F,Tier 5,Makeup,Lotions,Social Media,375000,Basket Add,25000
+228,3,D,M,Tier 1,Skincare,Foundation,B&M,375000,Purchase,25000
+229,3,F,F,Tier 3,Skincare,Serums,Mobile,750000,View,100000
+230,3,F,M,Tier 3,Skincare,Foundation,Social Media,375000,View,375000
+231,3,D,F,Tier 2,Makeup,Lotions,Social Media,100000,Click,750000
+232,3,C,M,Tier 4,Skincare,Foundation,Mobile,750000,Click,200000
+233,3,D,M,Tier 5,Skincare,Lotions,B&M,200000,Click,25000
+234,3,D,F,Tier 5,Skincare,Serums,B&M,750000,View,375000
+235,3,A,F,Tier 3,Skincare,Lotions,B&M,200000,Basket Add,200000
+236,3,A,M,Tier 4,Skincare,Lotions,Social Media,100000,Click,25000
+237,3,A,M,Tier 1,Skincare,Lotions,B&M,25000,Basket Add,100000
+238,3,A,F,Tier 3,Makeup,Foundation,Mobile,100000,Purchase,750000
+239,3,C,M,Tier 4,Skincare,Foundation,Mobile,200000,Purchase,375000
+240,3,C,M,Tier 1,Makeup,Serums,Social Media,25000,Click,375000
+241,3,E,F,Tier 5,Skincare,Foundation,B&M,750000,View,375000
+242,3,D,M,Tier 5,Makeup,Lipstick,Mobile,375000,Basket Add,750000
+243,3,F,M,Tier 4,Makeup,Lipstick,Mobile,375000,Click,375000
+244,3,C,F,Tier 2,Makeup,Lipstick,Online,375000,View,750000
+245,3,C,F,Tier 3,Skincare,Serums,Online,375000,Basket Add,200000
+246,3,A,M,Tier 1,Makeup,Foundation,Social Media,100000,Basket Add,200000
+247,3,C,M,Tier 1,Makeup,Lipstick,Online,750000,Basket Add,200000
+248,3,E,M,Tier 2,Makeup,Lipstick,B&M,100000,Purchase,100000
+249,3,A,M,Tier 1,Skincare,Lipstick,Social Media,200000,View,100000
+250,3,D,M,Tier 1,Skincare,Foundation,B&M,100000,Basket Add,200000
+251,3,D,F,Tier 4,Skincare,Lotions,Mobile,375000,View,750000
+252,3,C,F,Tier 2,Skincare,Serums,Social Media,25000,Purchase,200000
+253,3,E,F,Tier 2,Skincare,Foundation,Mobile,25000,Purchase,200000
+254,3,A,M,Tier 5,Skincare,Lipstick,Online,375000,Basket Add,25000
+255,3,D,M,Tier 4,Makeup,Serums,Mobile,750000,View,25000
+256,3,D,F,Tier 4,Makeup,Serums,Mobile,200000,Purchase,25000
+257,3,D,F,Tier 5,Skincare,Lipstick,Social Media,100000,View,200000
+258,3,B,F,Tier 4,Skincare,Lotions,B&M,100000,Basket Add,100000
+259,3,B,F,Tier 3,Makeup,Lipstick,Online,200000,Basket Add,25000
+260,3,C,F,Tier 2,Makeup,Lotions,Social Media,25000,Click,375000
+261,3,F,M,Tier 1,Makeup,Lotions,Online,375000,Click,100000
+262,3,B,M,Tier 5,Skincare,Lipstick,B&M,25000,Purchase,25000
+263,3,C,M,Tier 3,Makeup,Lipstick,Mobile,750000,Click,100000
+264,3,B,M,Tier 5,Skincare,Serums,Online,100000,View,750000
+265,3,B,F,Tier 3,Makeup,Serums,Social Media,100000,Basket Add,375000
+266,3,A,M,Tier 2,Makeup,Serums,Online,750000,Purchase,25000
+267,3,F,F,Tier 3,Skincare,Serums,Mobile,100000,Click,25000
+268,3,B,F,Tier 1,Makeup,Lotions,Social Media,200000,Basket Add,375000
+269,3,C,M,Tier 1,Makeup,Foundation,Mobile,750000,Click,100000
+270,3,E,F,Tier 3,Skincare,Serums,Social Media,750000,Click,100000
+271,3,F,M,Tier 3,Makeup,Lotions,B&M,100000,Basket Add,100000
+272,3,A,F,Tier 2,Skincare,Foundation,Mobile,750000,Click,375000
+273,3,D,F,Tier 3,Skincare,Serums,Mobile,100000,View,25000
+274,3,C,F,Tier 5,Makeup,Foundation,Mobile,750000,Click,25000
+275,3,B,F,Tier 5,Makeup,Lipstick,Mobile,25000,Click,375000
+276,3,F,F,Tier 2,Skincare,Serums,B&M,100000,Purchase,100000
+277,3,B,F,Tier 5,Makeup,Lipstick,Social Media,750000,View,25000
+278,3,A,M,Tier 4,Skincare,Lipstick,B&M,25000,Purchase,200000
+279,3,E,F,Tier 3,Makeup,Foundation,B&M,100000,View,100000
+280,3,B,M,Tier 1,Makeup,Lipstick,Online,375000,Purchase,375000
+281,3,F,M,Tier 5,Skincare,Serums,Social Media,200000,Basket Add,25000
+282,3,C,M,Tier 2,Makeup,Lipstick,Mobile,100000,View,200000
+283,3,E,F,Tier 2,Skincare,Serums,Online,25000,Purchase,200000
+284,3,F,M,Tier 5,Skincare,Lipstick,Online,375000,View,25000
+285,3,B,M,Tier 5,Makeup,Lotions,Social Media,25000,Click,750000
+286,3,C,M,Tier 5,Skincare,Foundation,Mobile,25000,Basket Add,100000
+287,3,C,M,Tier 3,Skincare,Lipstick,Online,200000,View,200000
+288,3,D,F,Tier 4,Makeup,Lipstick,Social Media,200000,Click,200000
+289,3,A,M,Tier 5,Skincare,Lipstick,Social Media,25000,Basket Add,100000
+290,3,D,M,Tier 2,Skincare,Lipstick,Mobile,25000,Basket Add,25000
+291,3,F,F,Tier 3,Skincare,Serums,B&M,750000,Purchase,750000
+292,3,B,M,Tier 2,Skincare,Lipstick,Online,375000,View,25000
+293,3,D,F,Tier 1,Makeup,Foundation,Mobile,750000,Purchase,100000
+294,3,C,F,Tier 5,Skincare,Foundation,Social Media,750000,View,200000
+295,3,E,M,Tier 1,Makeup,Foundation,Social Media,200000,Click,375000
+296,3,E,M,Tier 3,Makeup,Serums,B&M,100000,Click,200000
+297,3,F,M,Tier 4,Skincare,Foundation,Mobile,100000,Basket Add,100000
+298,3,B,F,Tier 2,Makeup,Lipstick,Social Media,25000,Purchase,750000
+299,3,F,M,Tier 3,Makeup,Foundation,Social Media,25000,Purchase,750000
+300,4,F,F,Tier 3,Skincare,Serums,Online,25000,View,100000
+301,4,E,F,Tier 1,Skincare,Foundation,B&M,375000,Click,25000
+302,4,D,M,Tier 1,Makeup,Lipstick,Mobile,100000,View,750000
+303,4,A,M,Tier 4,Skincare,Serums,Online,200000,View,750000
+304,4,E,M,Tier 5,Skincare,Foundation,Social Media,25000,Purchase,375000
+305,4,E,F,Tier 1,Skincare,Lipstick,B&M,200000,Basket Add,25000
+306,4,C,F,Tier 2,Makeup,Serums,Online,25000,Basket Add,375000
+307,4,B,M,Tier 4,Skincare,Lotions,Online,750000,Click,750000
+308,4,B,M,Tier 3,Makeup,Serums,Social Media,750000,View,25000
+309,4,D,F,Tier 5,Skincare,Foundation,Mobile,200000,View,200000
+310,4,D,F,Tier 5,Makeup,Foundation,B&M,750000,Click,750000
+311,4,E,M,Tier 4,Makeup,Lipstick,Social Media,750000,View,25000
+312,4,C,M,Tier 3,Skincare,Lipstick,B&M,750000,Purchase,25000
+313,4,D,M,Tier 2,Makeup,Lotions,Social Media,375000,Purchase,200000
+314,4,E,F,Tier 2,Makeup,Lotions,B&M,200000,View,25000
+315,4,D,F,Tier 4,Skincare,Serums,B&M,25000,Click,375000
+316,4,B,M,Tier 1,Skincare,Foundation,Mobile,750000,Purchase,25000
+317,4,E,M,Tier 5,Skincare,Lotions,Social Media,750000,Basket Add,100000
+318,4,E,F,Tier 5,Makeup,Lotions,B&M,200000,View,750000
+319,4,E,M,Tier 5,Skincare,Lotions,Social Media,375000,Purchase,750000
+320,4,C,M,Tier 5,Skincare,Serums,Mobile,100000,Click,100000
+321,4,B,M,Tier 4,Makeup,Lotions,B&M,200000,Purchase,100000
+322,4,D,M,Tier 4,Makeup,Lipstick,Online,200000,Purchase,750000
+323,4,D,M,Tier 5,Skincare,Serums,Mobile,375000,Basket Add,750000
+324,4,A,F,Tier 2,Skincare,Serums,Online,100000,Purchase,200000
+325,4,E,F,Tier 1,Skincare,Lotions,Mobile,100000,View,200000
+326,4,F,M,Tier 5,Skincare,Lipstick,Social Media,100000,View,100000
+327,4,D,M,Tier 5,Skincare,Serums,B&M,25000,Purchase,100000
+328,4,F,M,Tier 3,Makeup,Foundation,B&M,375000,View,375000
+329,4,C,F,Tier 5,Makeup,Foundation,Social Media,200000,Purchase,25000
+330,4,C,F,Tier 4,Makeup,Lipstick,Social Media,750000,Click,100000
+331,4,E,F,Tier 3,Skincare,Lipstick,Mobile,25000,View,200000
+332,4,E,M,Tier 5,Skincare,Foundation,Mobile,25000,Click,100000
+333,4,B,F,Tier 1,Makeup,Serums,B&M,25000,View,25000
+334,4,D,F,Tier 4,Skincare,Lipstick,Mobile,200000,Basket Add,750000
+335,4,B,M,Tier 1,Skincare,Lipstick,Mobile,200000,Click,375000
+336,4,B,F,Tier 3,Makeup,Serums,Online,200000,View,375000
+337,4,F,F,Tier 2,Skincare,Serums,Mobile,25000,Basket Add,25000
+338,4,C,M,Tier 1,Makeup,Serums,B&M,100000,Purchase,25000
+339,4,A,M,Tier 5,Skincare,Lotions,Mobile,25000,Click,100000
+340,4,B,F,Tier 4,Skincare,Lotions,B&M,25000,Basket Add,200000
+341,4,E,M,Tier 5,Skincare,Foundation,Social Media,25000,Purchase,750000
+342,4,B,F,Tier 3,Skincare,Lipstick,Online,750000,Purchase,375000
+343,4,A,M,Tier 5,Skincare,Foundation,Social Media,25000,Click,100000
+344,4,F,F,Tier 1,Skincare,Lipstick,Social Media,100000,Basket Add,750000
+345,4,F,F,Tier 2,Makeup,Lotions,Online,375000,Purchase,25000
+346,4,D,F,Tier 3,Skincare,Lipstick,Online,375000,View,25000
+347,4,A,M,Tier 5,Makeup,Lotions,Mobile,200000,Basket Add,100000
+348,4,C,M,Tier 1,Makeup,Lotions,Mobile,25000,Basket Add,750000
+349,4,C,M,Tier 5,Skincare,Serums,Social Media,100000,View,100000
+350,4,F,M,Tier 5,Skincare,Foundation,Social Media,100000,View,25000
+351,4,E,F,Tier 4,Skincare,Lotions,Mobile,375000,Click,100000
+352,4,D,M,Tier 1,Skincare,Lotions,Mobile,200000,View,100000
+353,4,A,F,Tier 2,Makeup,Foundation,Social Media,375000,Basket Add,375000
+354,4,D,M,Tier 2,Skincare,Lipstick,Mobile,375000,Basket Add,25000
+355,4,F,F,Tier 4,Makeup,Lotions,Online,200000,View,750000
+356,4,F,F,Tier 3,Skincare,Foundation,Social Media,200000,Purchase,200000
+357,4,D,M,Tier 2,Makeup,Foundation,Online,25000,Basket Add,375000
+358,4,B,F,Tier 3,Skincare,Foundation,Social Media,200000,Basket Add,750000
+359,4,C,F,Tier 5,Makeup,Lotions,B&M,200000,Click,100000
+360,4,D,F,Tier 1,Skincare,Foundation,Social Media,750000,Basket Add,375000
+361,4,B,F,Tier 4,Makeup,Lipstick,Mobile,25000,View,750000
+362,4,E,F,Tier 2,Skincare,Lipstick,Online,375000,View,375000
+363,4,E,F,Tier 5,Skincare,Lotions,Mobile,100000,Basket Add,750000
+364,4,E,F,Tier 1,Makeup,Lotions,Social Media,200000,Basket Add,200000
+365,4,C,F,Tier 3,Makeup,Serums,Mobile,25000,Click,750000
+366,4,F,M,Tier 1,Skincare,Lotions,Social Media,100000,View,100000
+367,4,E,F,Tier 5,Makeup,Serums,Mobile,375000,Purchase,200000
+368,4,D,M,Tier 5,Makeup,Serums,Social Media,200000,Basket Add,750000
+369,4,E,M,Tier 2,Skincare,Lipstick,Mobile,25000,Basket Add,375000
+370,4,A,F,Tier 4,Skincare,Lotions,Online,100000,View,375000
+371,4,C,M,Tier 5,Skincare,Foundation,Online,25000,Purchase,200000
+372,4,C,M,Tier 4,Makeup,Serums,Social Media,25000,Click,100000
+373,4,D,F,Tier 5,Skincare,Serums,Online,25000,View,750000
+374,4,A,M,Tier 5,Makeup,Foundation,Online,375000,Basket Add,200000
+375,4,E,M,Tier 5,Makeup,Lotions,Social Media,200000,View,375000
+376,4,E,F,Tier 5,Makeup,Foundation,B&M,100000,Purchase,100000
+377,4,A,M,Tier 1,Makeup,Foundation,B&M,25000,Click,200000
+378,4,A,F,Tier 4,Skincare,Lotions,Social Media,750000,Basket Add,200000
+379,4,E,M,Tier 1,Makeup,Lipstick,B&M,750000,View,750000
+380,4,A,F,Tier 3,Skincare,Foundation,Social Media,25000,Basket Add,100000
+381,4,E,F,Tier 4,Skincare,Serums,Mobile,25000,Purchase,100000
+382,4,B,M,Tier 2,Skincare,Foundation,Social Media,25000,Purchase,200000
+383,4,F,M,Tier 5,Skincare,Lipstick,B&M,25000,Click,100000
+384,4,B,M,Tier 4,Skincare,Lotions,Social Media,25000,View,375000
+385,4,A,M,Tier 1,Skincare,Lotions,B&M,375000,View,375000
+386,4,B,M,Tier 3,Makeup,Serums,Mobile,200000,Click,200000
+387,4,F,M,Tier 4,Makeup,Serums,B&M,25000,View,25000
+388,4,B,F,Tier 4,Skincare,Foundation,B&M,750000,Click,200000
+389,4,E,F,Tier 2,Skincare,Foundation,Social Media,200000,Basket Add,750000
+390,4,F,M,Tier 2,Skincare,Lipstick,Mobile,750000,View,750000
+391,4,B,M,Tier 1,Makeup,Serums,Social Media,375000,Click,375000
+392,4,D,M,Tier 2,Makeup,Serums,Mobile,375000,View,25000
+393,4,A,M,Tier 2,Skincare,Foundation,B&M,25000,Purchase,200000
+394,4,A,M,Tier 4,Makeup,Lotions,B&M,200000,Basket Add,25000
+395,4,D,M,Tier 1,Makeup,Foundation,Online,200000,View,750000
+396,4,B,M,Tier 2,Makeup,Serums,Mobile,200000,View,100000
+397,4,A,M,Tier 3,Makeup,Foundation,Mobile,750000,Basket Add,200000
+398,4,D,F,Tier 4,Skincare,Foundation,Social Media,25000,Purchase,375000
+399,4,B,M,Tier 2,Makeup,Serums,Social Media,750000,Click,750000
+400,5,B,F,Tier 2,Skincare,Foundation,Social Media,100000,Purchase,25000
+401,5,C,M,Tier 5,Skincare,Lotions,Social Media,375000,View,200000
+402,5,C,F,Tier 4,Makeup,Lipstick,Online,375000,Basket Add,25000
+403,5,E,F,Tier 3,Skincare,Lotions,Social Media,375000,Purchase,375000
+404,5,C,F,Tier 3,Skincare,Lipstick,Online,25000,Basket Add,200000
+405,5,A,F,Tier 1,Skincare,Foundation,Social Media,375000,Basket Add,100000
+406,5,F,M,Tier 3,Makeup,Lipstick,B&M,200000,View,375000
+407,5,C,F,Tier 3,Skincare,Lotions,Online,375000,Purchase,375000
+408,5,F,F,Tier 5,Skincare,Lipstick,Social Media,750000,Basket Add,750000
+409,5,D,F,Tier 2,Makeup,Lotions,Mobile,750000,Click,25000
+410,5,C,F,Tier 4,Skincare,Lotions,Social Media,25000,Purchase,200000
+411,5,A,M,Tier 5,Skincare,Lotions,B&M,200000,Basket Add,750000
+412,5,A,M,Tier 4,Makeup,Serums,Social Media,750000,Basket Add,25000
+413,5,D,F,Tier 4,Skincare,Foundation,Mobile,25000,Click,25000
+414,5,B,F,Tier 3,Skincare,Lotions,Online,375000,Basket Add,100000
+415,5,C,M,Tier 2,Skincare,Lotions,Online,200000,View,200000
+416,5,A,M,Tier 2,Makeup,Foundation,B&M,200000,View,25000
+417,5,F,F,Tier 3,Makeup,Lotions,Online,25000,Purchase,375000
+418,5,B,M,Tier 5,Skincare,Foundation,B&M,200000,Basket Add,200000
+419,5,B,M,Tier 4,Skincare,Serums,Social Media,200000,Basket Add,200000
+420,5,A,F,Tier 3,Skincare,Lotions,Mobile,200000,Purchase,375000
+421,5,E,M,Tier 2,Makeup,Lipstick,Social Media,25000,Purchase,750000
+422,5,E,F,Tier 3,Makeup,Serums,Online,375000,Click,375000
+423,5,B,M,Tier 3,Makeup,Lotions,Mobile,200000,Basket Add,375000
+424,5,F,F,Tier 2,Skincare,Lotions,Mobile,25000,View,200000
+425,5,A,M,Tier 3,Skincare,Lotions,Mobile,750000,View,200000
+426,5,B,F,Tier 5,Makeup,Lotions,Social Media,200000,Purchase,25000
+427,5,B,F,Tier 2,Skincare,Foundation,B&M,200000,Purchase,100000
+428,5,B,M,Tier 5,Skincare,Foundation,B&M,25000,View,25000
+429,5,D,M,Tier 1,Skincare,Lipstick,Mobile,100000,Click,25000
+430,5,C,M,Tier 5,Skincare,Serums,Online,750000,Basket Add,100000
+431,5,D,M,Tier 1,Skincare,Foundation,Online,100000,Basket Add,25000
+432,5,B,M,Tier 3,Makeup,Lipstick,Social Media,200000,View,25000
+433,5,A,M,Tier 3,Makeup,Lipstick,Social Media,200000,Purchase,750000
+434,5,D,M,Tier 1,Skincare,Lipstick,Mobile,375000,Click,25000
+435,5,A,F,Tier 1,Skincare,Lotions,Social Media,100000,View,750000
+436,5,E,F,Tier 3,Skincare,Lipstick,Social Media,25000,Click,375000
+437,5,E,M,Tier 3,Makeup,Foundation,Mobile,375000,Basket Add,375000
+438,5,F,F,Tier 1,Skincare,Lotions,Social Media,375000,Basket Add,100000
+439,5,B,M,Tier 2,Makeup,Lipstick,Social Media,200000,Basket Add,375000
+440,5,A,M,Tier 3,Makeup,Serums,B&M,200000,View,750000
+441,5,F,F,Tier 2,Makeup,Foundation,Online,25000,Click,375000
+442,5,B,M,Tier 1,Skincare,Lotions,Social Media,375000,Basket Add,375000
+443,5,A,F,Tier 5,Makeup,Foundation,B&M,25000,Click,200000
+444,5,B,F,Tier 4,Skincare,Lotions,Online,375000,Basket Add,200000
+445,5,C,F,Tier 4,Makeup,Foundation,B&M,375000,View,25000
+446,5,F,M,Tier 3,Skincare,Foundation,Mobile,200000,Purchase,375000
+447,5,F,M,Tier 5,Makeup,Lipstick,Online,25000,Basket Add,375000
+448,5,C,M,Tier 5,Skincare,Lipstick,Social Media,25000,Click,200000
+449,5,E,M,Tier 3,Makeup,Lipstick,B&M,100000,Click,25000
+450,5,F,M,Tier 1,Skincare,Lipstick,B&M,100000,View,375000
+451,5,F,F,Tier 4,Skincare,Foundation,B&M,375000,Basket Add,375000
+452,5,C,M,Tier 2,Skincare,Lotions,B&M,750000,Basket Add,25000
+453,5,B,F,Tier 5,Makeup,Foundation,B&M,25000,Basket Add,25000
+454,5,A,F,Tier 3,Makeup,Serums,Mobile,100000,Purchase,750000
+455,5,A,F,Tier 2,Skincare,Serums,Social Media,750000,View,25000
+456,5,A,F,Tier 3,Makeup,Lotions,Online,25000,Purchase,375000
+457,5,E,M,Tier 4,Skincare,Foundation,Online,200000,Basket Add,750000
+458,5,A,M,Tier 4,Makeup,Serums,Online,750000,View,750000
+459,5,F,F,Tier 3,Skincare,Lotions,B&M,750000,Purchase,375000
+460,5,B,M,Tier 4,Skincare,Lipstick,Mobile,25000,Purchase,750000
+461,5,F,F,Tier 4,Skincare,Serums,Social Media,25000,View,375000
+462,5,F,M,Tier 2,Makeup,Lipstick,Social Media,750000,Purchase,750000
+463,5,F,M,Tier 1,Skincare,Serums,B&M,375000,Click,200000
+464,5,E,M,Tier 1,Skincare,Lotions,Mobile,25000,Basket Add,375000
+465,5,B,F,Tier 5,Skincare,Foundation,Social Media,375000,View,750000
+466,5,D,M,Tier 1,Makeup,Serums,Social Media,375000,Basket Add,750000
+467,5,C,M,Tier 5,Skincare,Lipstick,Mobile,750000,View,375000
+468,5,E,M,Tier 1,Makeup,Serums,Mobile,200000,Purchase,200000
+469,5,B,M,Tier 3,Makeup,Foundation,Online,200000,View,750000
+470,5,D,F,Tier 5,Makeup,Serums,Social Media,375000,Basket Add,25000
+471,5,C,M,Tier 3,Skincare,Lotions,Social Media,375000,Purchase,25000
+472,5,C,F,Tier 1,Makeup,Lipstick,Social Media,375000,Click,200000
+473,5,C,F,Tier 3,Skincare,Foundation,Online,100000,View,375000
+474,5,E,F,Tier 3,Skincare,Serums,B&M,375000,Basket Add,375000
+475,5,A,M,Tier 2,Skincare,Foundation,Online,375000,Purchase,750000
+476,5,E,M,Tier 5,Makeup,Serums,B&M,25000,Click,750000
+477,5,C,M,Tier 2,Makeup,Lipstick,Mobile,375000,Purchase,750000
+478,5,E,M,Tier 2,Skincare,Foundation,B&M,750000,Click,375000
+479,5,B,F,Tier 5,Skincare,Lipstick,B&M,750000,Click,100000
+480,5,A,F,Tier 2,Skincare,Lipstick,Online,375000,View,100000
+481,5,B,F,Tier 2,Makeup,Serums,Social Media,375000,Click,200000
+482,5,A,F,Tier 3,Skincare,Lipstick,B&M,375000,Basket Add,100000
+483,5,A,M,Tier 4,Skincare,Serums,B&M,200000,Basket Add,200000
+484,5,F,M,Tier 2,Makeup,Serums,Online,375000,Basket Add,375000
+485,5,D,F,Tier 5,Skincare,Lotions,Online,25000,Basket Add,100000
+486,5,C,M,Tier 5,Makeup,Lotions,Mobile,25000,Click,25000
+487,5,D,M,Tier 2,Skincare,Lotions,Online,100000,Click,200000
+488,5,A,F,Tier 4,Makeup,Lipstick,B&M,100000,Click,750000
+489,5,E,F,Tier 5,Makeup,Lipstick,Online,750000,Basket Add,750000
+490,5,F,M,Tier 2,Skincare,Foundation,B&M,375000,Purchase,100000
+491,5,E,M,Tier 5,Skincare,Lipstick,B&M,25000,Click,375000
+492,5,A,M,Tier 5,Makeup,Serums,Online,100000,Click,375000
+493,5,C,F,Tier 4,Skincare,Lipstick,Social Media,25000,Basket Add,750000
+494,5,E,F,Tier 4,Makeup,Foundation,Mobile,100000,Click,100000
+495,5,A,F,Tier 4,Skincare,Foundation,Mobile,100000,Click,100000
+496,5,C,F,Tier 5,Makeup,Lotions,Social Media,375000,Click,100000
+497,5,C,F,Tier 4,Makeup,Serums,Social Media,100000,Basket Add,100000
+498,5,B,F,Tier 2,Skincare,Serums,Online,750000,View,375000
+499,5,B,F,Tier 3,Skincare,Serums,Mobile,200000,View,100000
+500,6,C,F,Tier 3,Skincare,Lipstick,Social Media,200000,Basket Add,100000
+501,6,C,F,Tier 4,Skincare,Foundation,B&M,375000,Basket Add,25000
+502,6,B,M,Tier 3,Skincare,Lipstick,Mobile,750000,Click,375000
+503,6,F,F,Tier 3,Makeup,Lipstick,Mobile,100000,Click,200000
+504,6,A,F,Tier 3,Makeup,Serums,Social Media,100000,Purchase,200000
+505,6,D,M,Tier 5,Makeup,Lipstick,B&M,375000,Click,100000
+506,6,A,F,Tier 5,Skincare,Foundation,B&M,375000,View,750000
+507,6,E,M,Tier 2,Skincare,Lipstick,B&M,375000,Click,375000
+508,6,E,F,Tier 3,Makeup,Serums,Mobile,100000,View,750000
+509,6,A,F,Tier 1,Skincare,Foundation,Social Media,200000,Purchase,200000
+510,6,D,F,Tier 4,Makeup,Serums,Online,100000,Click,750000
+511,6,B,M,Tier 2,Skincare,Foundation,Social Media,25000,Click,750000
+512,6,F,M,Tier 2,Makeup,Lotions,Mobile,25000,Click,200000
+513,6,E,M,Tier 5,Skincare,Lotions,Social Media,375000,View,200000
+514,6,A,M,Tier 1,Skincare,Lotions,Mobile,100000,View,375000
+515,6,D,F,Tier 2,Makeup,Foundation,Social Media,100000,Click,750000
+516,6,B,M,Tier 1,Makeup,Foundation,Mobile,375000,Click,750000
+517,6,F,F,Tier 4,Skincare,Lipstick,Online,200000,View,750000
+518,6,F,M,Tier 3,Skincare,Lipstick,Online,100000,Click,25000
+519,6,B,F,Tier 2,Makeup,Serums,B&M,750000,Purchase,100000
+520,6,D,M,Tier 5,Makeup,Lotions,Mobile,25000,Purchase,100000
+521,6,E,M,Tier 1,Skincare,Lipstick,Mobile,750000,View,25000
+522,6,A,M,Tier 1,Makeup,Foundation,B&M,750000,Click,200000
+523,6,C,F,Tier 2,Skincare,Foundation,Social Media,100000,View,100000
+524,6,B,F,Tier 1,Makeup,Lotions,Social Media,25000,Purchase,750000
+525,6,E,M,Tier 4,Makeup,Lipstick,B&M,750000,Purchase,25000
+526,6,F,M,Tier 3,Makeup,Lipstick,Social Media,100000,Purchase,100000
+527,6,D,M,Tier 3,Skincare,Serums,Mobile,750000,Basket Add,750000
+528,6,D,M,Tier 4,Skincare,Foundation,Online,25000,View,200000
+529,6,D,F,Tier 1,Makeup,Foundation,Mobile,375000,Purchase,375000
+530,6,E,M,Tier 5,Makeup,Serums,Social Media,100000,View,200000
+531,6,E,M,Tier 1,Makeup,Serums,Social Media,100000,Basket Add,750000
+532,6,E,F,Tier 1,Skincare,Lotions,B&M,750000,Basket Add,200000
+533,6,A,M,Tier 2,Makeup,Lipstick,Online,200000,Purchase,100000
+534,6,D,F,Tier 5,Skincare,Lotions,Social Media,100000,Purchase,100000
+535,6,F,M,Tier 3,Makeup,Foundation,B&M,200000,Purchase,375000
+536,6,D,F,Tier 1,Skincare,Lipstick,Mobile,375000,Click,200000
+537,6,E,F,Tier 3,Skincare,Serums,B&M,200000,Basket Add,200000
+538,6,D,M,Tier 5,Makeup,Lipstick,Online,375000,Click,25000
+539,6,C,M,Tier 2,Skincare,Lipstick,Online,25000,View,25000
+540,6,C,F,Tier 4,Skincare,Lipstick,Online,25000,Purchase,100000
+541,6,C,F,Tier 4,Skincare,Serums,Online,375000,Basket Add,100000
+542,6,E,F,Tier 5,Makeup,Lipstick,Online,375000,Basket Add,100000
+543,6,F,M,Tier 1,Skincare,Lotions,Online,100000,Purchase,200000
+544,6,D,F,Tier 5,Makeup,Foundation,Mobile,375000,View,750000
+545,6,C,F,Tier 4,Skincare,Lotions,Social Media,25000,View,750000
+546,6,F,F,Tier 1,Skincare,Lipstick,Online,25000,Purchase,375000
+547,6,B,F,Tier 4,Makeup,Lipstick,Social Media,750000,Purchase,750000
+548,6,D,M,Tier 1,Skincare,Lipstick,Social Media,200000,Basket Add,25000
+549,6,D,M,Tier 2,Skincare,Lipstick,Online,375000,Purchase,100000
+550,6,E,F,Tier 3,Skincare,Lotions,Social Media,100000,View,25000
+551,6,E,F,Tier 4,Makeup,Foundation,Social Media,750000,Click,750000
+552,6,F,F,Tier 1,Makeup,Lipstick,Mobile,375000,Click,25000
+553,6,A,F,Tier 2,Makeup,Lipstick,Online,375000,View,375000
+554,6,E,M,Tier 2,Skincare,Lipstick,Mobile,750000,Click,200000
+555,6,E,M,Tier 3,Makeup,Lipstick,Social Media,25000,Basket Add,25000
+556,6,D,M,Tier 3,Skincare,Serums,B&M,25000,View,100000
+557,6,D,F,Tier 4,Skincare,Lipstick,B&M,100000,View,100000
+558,6,B,M,Tier 3,Skincare,Foundation,Online,25000,Click,375000
+559,6,C,F,Tier 4,Skincare,Serums,Social Media,375000,Purchase,200000
+560,6,B,F,Tier 2,Makeup,Foundation,B&M,375000,Click,200000
+561,6,D,F,Tier 3,Skincare,Serums,Social Media,100000,Click,375000
+562,6,F,F,Tier 2,Makeup,Lipstick,Mobile,750000,Basket Add,25000
+563,6,D,F,Tier 2,Skincare,Lipstick,Social Media,200000,Purchase,750000
+564,6,C,F,Tier 5,Skincare,Lotions,Mobile,100000,View,375000
+565,6,B,M,Tier 3,Makeup,Foundation,Social Media,100000,Basket Add,750000
+566,6,E,M,Tier 2,Makeup,Lotions,B&M,200000,Basket Add,100000
+567,6,E,M,Tier 5,Skincare,Serums,Online,200000,Click,25000
+568,6,A,F,Tier 5,Skincare,Lotions,Social Media,375000,Purchase,25000
+569,6,A,F,Tier 5,Makeup,Serums,B&M,375000,Purchase,200000
+570,6,F,F,Tier 2,Makeup,Foundation,Social Media,25000,View,25000
+571,6,B,M,Tier 3,Skincare,Lipstick,Social Media,200000,Purchase,100000
+572,6,F,F,Tier 2,Makeup,Lipstick,Online,25000,Click,100000
+573,6,D,F,Tier 3,Skincare,Serums,Online,750000,View,25000
+574,6,B,F,Tier 5,Makeup,Lipstick,Social Media,200000,Purchase,750000
+575,6,E,F,Tier 1,Makeup,Lotions,Mobile,25000,Click,200000
+576,6,A,F,Tier 3,Makeup,Lipstick,B&M,375000,Click,200000
+577,6,D,F,Tier 4,Skincare,Foundation,B&M,200000,Basket Add,375000
+578,6,E,M,Tier 2,Makeup,Foundation,Mobile,375000,Click,750000
+579,6,D,M,Tier 5,Skincare,Lipstick,Online,200000,Click,100000
+580,6,D,M,Tier 3,Makeup,Lipstick,B&M,100000,View,100000
+581,6,F,F,Tier 5,Skincare,Lotions,Social Media,100000,Click,375000
+582,6,D,M,Tier 5,Makeup,Foundation,B&M,750000,Click,750000
+583,6,A,F,Tier 3,Skincare,Serums,Social Media,200000,Purchase,375000
+584,6,C,M,Tier 2,Skincare,Serums,Online,750000,View,100000
+585,6,A,F,Tier 2,Makeup,Lotions,B&M,375000,Click,100000
+586,6,D,F,Tier 4,Makeup,Serums,Online,100000,Basket Add,200000
+587,6,D,F,Tier 5,Skincare,Foundation,Online,750000,Click,200000
+588,6,D,M,Tier 1,Makeup,Lotions,Mobile,375000,View,100000
+589,6,D,F,Tier 5,Skincare,Serums,B&M,375000,Purchase,25000
+590,6,B,F,Tier 1,Makeup,Foundation,Social Media,200000,View,200000
+591,6,B,M,Tier 4,Skincare,Serums,Social Media,375000,Basket Add,100000
+592,6,E,M,Tier 4,Skincare,Lipstick,Social Media,375000,Purchase,375000
+593,6,B,F,Tier 1,Skincare,Foundation,Mobile,100000,Click,375000
+594,6,F,F,Tier 5,Skincare,Lotions,Social Media,750000,View,200000
+595,6,E,M,Tier 4,Makeup,Lotions,Online,375000,Basket Add,375000
+596,6,B,F,Tier 5,Skincare,Lotions,B&M,25000,Click,375000
+597,6,C,M,Tier 4,Skincare,Foundation,Online,200000,Click,375000
+598,6,C,F,Tier 4,Makeup,Foundation,Online,750000,Basket Add,200000
+599,6,F,F,Tier 5,Makeup,Foundation,Mobile,200000,Basket Add,375000
+600,7,A,M,Tier 2,Skincare,Lotions,Mobile,25000,Purchase,100000
+601,7,B,F,Tier 5,Skincare,Foundation,Online,750000,View,200000
+602,7,D,M,Tier 1,Makeup,Lotions,Mobile,25000,View,375000
+603,7,A,M,Tier 1,Makeup,Foundation,Mobile,100000,Basket Add,750000
+604,7,E,F,Tier 1,Makeup,Foundation,Social Media,25000,Basket Add,100000
+605,7,C,F,Tier 1,Skincare,Lotions,Mobile,25000,Click,750000
+606,7,E,M,Tier 5,Makeup,Foundation,Social Media,750000,Purchase,100000
+607,7,E,M,Tier 3,Skincare,Foundation,B&M,200000,Purchase,200000
+608,7,E,M,Tier 2,Skincare,Lipstick,Mobile,750000,View,375000
+609,7,E,M,Tier 5,Makeup,Lipstick,Online,25000,Basket Add,100000
+610,7,A,M,Tier 5,Makeup,Lotions,Social Media,750000,Basket Add,25000
+611,7,E,F,Tier 1,Skincare,Foundation,Mobile,750000,Click,750000
+612,7,E,M,Tier 2,Makeup,Lotions,Social Media,750000,Basket Add,25000
+613,7,D,F,Tier 2,Makeup,Lipstick,Online,100000,Basket Add,100000
+614,7,D,F,Tier 3,Skincare,Serums,Online,200000,Purchase,375000
+615,7,B,F,Tier 5,Makeup,Serums,B&M,750000,Purchase,200000
+616,7,D,F,Tier 5,Skincare,Foundation,Mobile,200000,Basket Add,25000
+617,7,B,M,Tier 5,Makeup,Foundation,Mobile,375000,Basket Add,100000
+618,7,E,F,Tier 2,Makeup,Lipstick,Online,750000,Purchase,100000
+619,7,A,M,Tier 5,Makeup,Lipstick,B&M,200000,Basket Add,200000
+620,7,D,M,Tier 2,Makeup,Serums,Online,375000,Basket Add,375000
+621,7,D,M,Tier 4,Makeup,Foundation,Online,750000,View,100000
+622,7,A,F,Tier 4,Skincare,Serums,B&M,200000,View,375000
+623,7,A,F,Tier 1,Skincare,Lotions,B&M,200000,View,375000
+624,7,D,F,Tier 4,Skincare,Serums,Social Media,750000,Click,375000
+625,7,A,F,Tier 5,Makeup,Lotions,Mobile,100000,Purchase,25000
+626,7,A,F,Tier 4,Skincare,Serums,Social Media,25000,View,200000
+627,7,B,M,Tier 5,Skincare,Foundation,Mobile,25000,Purchase,200000
+628,7,A,M,Tier 4,Skincare,Lotions,Mobile,375000,Click,100000
+629,7,A,M,Tier 3,Skincare,Foundation,Social Media,25000,View,200000
+630,7,B,M,Tier 5,Makeup,Serums,B&M,25000,Basket Add,100000
+631,7,A,M,Tier 1,Makeup,Foundation,Social Media,100000,View,100000
+632,7,C,M,Tier 1,Skincare,Foundation,B&M,375000,Basket Add,750000
+633,7,A,M,Tier 1,Skincare,Lipstick,B&M,100000,View,25000
+634,7,A,F,Tier 4,Skincare,Lipstick,Mobile,25000,Basket Add,100000
+635,7,F,M,Tier 2,Skincare,Lipstick,Social Media,25000,Basket Add,750000
+636,7,A,F,Tier 4,Makeup,Serums,Online,100000,Purchase,375000
+637,7,B,M,Tier 3,Makeup,Serums,Online,750000,View,25000
+638,7,D,F,Tier 2,Makeup,Foundation,Online,100000,Purchase,100000
+639,7,E,F,Tier 1,Skincare,Foundation,Social Media,25000,Click,25000
+640,7,A,M,Tier 2,Makeup,Serums,B&M,375000,Click,100000
+641,7,F,F,Tier 5,Makeup,Foundation,Mobile,375000,Click,200000
+642,7,D,F,Tier 4,Skincare,Lipstick,Online,750000,Purchase,100000
+643,7,D,M,Tier 3,Makeup,Lotions,B&M,100000,View,25000
+644,7,B,F,Tier 3,Makeup,Lipstick,Online,750000,View,25000
+645,7,D,F,Tier 2,Makeup,Lipstick,Mobile,25000,View,750000
+646,7,D,F,Tier 5,Makeup,Serums,B&M,200000,View,200000
+647,7,F,M,Tier 4,Skincare,Foundation,B&M,200000,Click,100000
+648,7,C,M,Tier 5,Makeup,Lipstick,Mobile,25000,Click,200000
+649,7,D,F,Tier 2,Skincare,Lotions,Mobile,375000,Basket Add,25000
+650,7,C,F,Tier 4,Skincare,Foundation,Online,750000,Purchase,25000
+651,7,E,F,Tier 3,Makeup,Serums,Online,750000,Basket Add,375000
+652,7,F,F,Tier 3,Makeup,Lotions,Mobile,200000,Purchase,25000
+653,7,E,M,Tier 5,Skincare,Lipstick,B&M,375000,Basket Add,25000
+654,7,F,F,Tier 3,Skincare,Serums,Online,25000,View,200000
+655,7,C,F,Tier 1,Skincare,Lotions,Online,25000,View,200000
+656,7,B,F,Tier 1,Makeup,Lotions,Online,25000,Click,25000
+657,7,E,M,Tier 4,Skincare,Foundation,Mobile,200000,Basket Add,750000
+658,7,F,F,Tier 5,Skincare,Lipstick,Social Media,375000,View,100000
+659,7,A,F,Tier 1,Makeup,Serums,Online,100000,Click,200000
+660,7,B,M,Tier 4,Makeup,Lotions,Online,750000,View,375000
+661,7,F,M,Tier 2,Makeup,Lipstick,Online,750000,Click,200000
+662,7,E,F,Tier 4,Makeup,Lipstick,Mobile,25000,Purchase,200000
+663,7,E,F,Tier 5,Makeup,Foundation,Mobile,375000,View,750000
+664,7,D,M,Tier 2,Skincare,Serums,Social Media,25000,Purchase,200000
+665,7,D,M,Tier 2,Skincare,Lotions,Mobile,375000,Basket Add,375000
+666,7,D,F,Tier 2,Skincare,Lotions,Mobile,25000,Click,100000
+667,7,B,M,Tier 3,Skincare,Foundation,Social Media,375000,Basket Add,200000
+668,7,C,M,Tier 2,Makeup,Lipstick,Online,375000,Purchase,200000
+669,7,B,M,Tier 3,Skincare,Foundation,Mobile,375000,Basket Add,750000
+670,7,B,F,Tier 4,Makeup,Serums,Online,100000,View,25000
+671,7,A,M,Tier 5,Makeup,Serums,Social Media,750000,Purchase,25000
+672,7,D,F,Tier 4,Makeup,Foundation,Mobile,100000,Click,100000
+673,7,F,M,Tier 2,Skincare,Lotions,Social Media,100000,Click,100000
+674,7,E,M,Tier 1,Makeup,Lotions,Social Media,25000,Purchase,100000
+675,7,B,M,Tier 5,Makeup,Serums,B&M,750000,Purchase,100000
+676,7,F,M,Tier 1,Skincare,Lipstick,B&M,375000,Purchase,25000
+677,7,D,M,Tier 3,Makeup,Lipstick,Mobile,200000,Purchase,100000
+678,7,E,F,Tier 2,Skincare,Serums,Online,200000,Click,25000
+679,7,A,M,Tier 1,Skincare,Lotions,B&M,375000,Click,100000
+680,7,C,M,Tier 2,Makeup,Lipstick,B&M,750000,Purchase,750000
+681,7,F,M,Tier 5,Skincare,Serums,Mobile,25000,View,100000
+682,7,E,M,Tier 5,Makeup,Serums,Mobile,200000,Click,375000
+683,7,E,F,Tier 5,Skincare,Lipstick,Online,25000,Basket Add,750000
+684,7,D,F,Tier 5,Makeup,Lotions,Online,25000,View,100000
+685,7,D,M,Tier 2,Makeup,Lipstick,Social Media,100000,Basket Add,750000
+686,7,D,F,Tier 2,Makeup,Foundation,B&M,750000,Click,200000
+687,7,D,M,Tier 1,Makeup,Foundation,B&M,375000,View,100000
+688,7,D,M,Tier 5,Makeup,Serums,B&M,750000,Click,750000
+689,7,C,M,Tier 2,Makeup,Lipstick,Online,750000,View,200000
+690,7,D,F,Tier 1,Makeup,Lipstick,B&M,25000,Basket Add,200000
+691,7,E,F,Tier 4,Skincare,Lipstick,Mobile,200000,Purchase,200000
+692,7,B,M,Tier 4,Skincare,Lotions,Online,25000,Purchase,100000
+693,7,A,M,Tier 2,Skincare,Serums,Social Media,750000,Click,750000
+694,7,E,F,Tier 3,Skincare,Serums,Online,750000,Purchase,200000
+695,7,C,M,Tier 5,Skincare,Lipstick,Online,100000,View,25000
+696,7,D,F,Tier 2,Makeup,Serums,Social Media,25000,Click,375000
+697,7,C,F,Tier 3,Makeup,Lipstick,Mobile,750000,View,750000
+698,7,E,F,Tier 1,Skincare,Lotions,Social Media,25000,Click,25000
+699,7,F,F,Tier 1,Skincare,Lotions,B&M,750000,Basket Add,25000
+700,8,D,F,Tier 5,Skincare,Lotions,B&M,750000,Basket Add,200000
+701,8,B,M,Tier 1,Skincare,Lotions,Social Media,375000,Purchase,25000
+702,8,D,F,Tier 3,Makeup,Serums,Mobile,100000,Click,200000
+703,8,B,F,Tier 1,Makeup,Serums,Mobile,100000,Click,25000
+704,8,C,M,Tier 3,Skincare,Lipstick,Online,25000,View,200000
+705,8,E,M,Tier 5,Skincare,Serums,B&M,25000,View,200000
+706,8,C,M,Tier 3,Makeup,Lipstick,B&M,750000,View,100000
+707,8,C,M,Tier 1,Makeup,Lotions,B&M,100000,Basket Add,750000
+708,8,E,M,Tier 2,Skincare,Lipstick,B&M,375000,Click,25000
+709,8,A,M,Tier 3,Skincare,Foundation,B&M,100000,Purchase,25000
+710,8,B,F,Tier 1,Makeup,Lipstick,Mobile,750000,View,375000
+711,8,D,F,Tier 1,Makeup,Serums,Social Media,25000,View,750000
+712,8,A,M,Tier 5,Skincare,Lotions,Online,100000,Click,200000
+713,8,D,M,Tier 2,Skincare,Foundation,Online,750000,View,100000
+714,8,E,M,Tier 2,Makeup,Lipstick,Mobile,25000,Purchase,375000
+715,8,D,M,Tier 3,Makeup,Lotions,Mobile,25000,Basket Add,25000
+716,8,B,M,Tier 3,Makeup,Lipstick,Mobile,750000,Basket Add,200000
+717,8,D,M,Tier 4,Skincare,Lotions,Mobile,375000,View,25000
+718,8,D,F,Tier 4,Makeup,Lipstick,B&M,100000,Click,25000
+719,8,A,F,Tier 2,Makeup,Lotions,Online,200000,Purchase,100000
+720,8,B,F,Tier 1,Makeup,Lipstick,B&M,375000,View,100000
+721,8,F,M,Tier 3,Skincare,Foundation,B&M,375000,View,375000
+722,8,F,M,Tier 3,Skincare,Lotions,Social Media,200000,Purchase,25000
+723,8,D,M,Tier 5,Makeup,Serums,B&M,375000,Click,100000
+724,8,B,F,Tier 1,Skincare,Serums,B&M,750000,Click,750000
+725,8,D,F,Tier 3,Skincare,Lipstick,Social Media,750000,Purchase,200000
+726,8,B,M,Tier 5,Makeup,Lotions,Social Media,100000,View,750000
+727,8,A,M,Tier 1,Skincare,Lotions,B&M,25000,Click,25000
+728,8,E,F,Tier 5,Skincare,Lipstick,Mobile,25000,Click,100000
+729,8,F,F,Tier 1,Skincare,Lotions,Social Media,750000,Click,375000
+730,8,A,M,Tier 2,Makeup,Lipstick,Mobile,750000,Click,750000
+731,8,F,M,Tier 3,Skincare,Lipstick,Online,750000,Click,375000
+732,8,A,F,Tier 4,Makeup,Lipstick,Online,100000,Click,25000
+733,8,D,M,Tier 4,Makeup,Serums,Mobile,25000,View,200000
+734,8,B,F,Tier 1,Makeup,Lotions,Online,100000,Purchase,750000
+735,8,C,M,Tier 4,Skincare,Serums,B&M,25000,Basket Add,750000
+736,8,A,F,Tier 5,Makeup,Lipstick,Online,100000,Purchase,25000
+737,8,D,M,Tier 3,Makeup,Serums,Online,200000,Click,750000
+738,8,C,M,Tier 2,Makeup,Foundation,B&M,200000,Purchase,375000
+739,8,F,M,Tier 4,Skincare,Lipstick,Online,750000,Basket Add,750000
+740,8,B,F,Tier 1,Makeup,Lipstick,Online,750000,View,375000
+741,8,E,F,Tier 4,Skincare,Lipstick,Online,200000,View,25000
+742,8,E,F,Tier 5,Makeup,Serums,Mobile,375000,Click,25000
+743,8,C,F,Tier 2,Skincare,Lotions,Social Media,375000,Basket Add,200000
+744,8,C,M,Tier 5,Skincare,Lotions,Mobile,25000,View,100000
+745,8,C,M,Tier 1,Makeup,Lipstick,Mobile,750000,Basket Add,100000
+746,8,D,M,Tier 4,Makeup,Serums,B&M,200000,View,375000
+747,8,B,F,Tier 2,Skincare,Lipstick,Online,100000,Purchase,750000
+748,8,C,M,Tier 3,Skincare,Lotions,Mobile,375000,Click,200000
+749,8,D,F,Tier 1,Makeup,Lipstick,Online,200000,Basket Add,200000
+750,8,F,F,Tier 1,Skincare,Lotions,B&M,375000,View,375000
+751,8,C,F,Tier 2,Makeup,Lipstick,B&M,100000,Purchase,750000
+752,8,C,M,Tier 1,Makeup,Lotions,Social Media,25000,Basket Add,25000
+753,8,F,M,Tier 4,Makeup,Foundation,Online,25000,Basket Add,750000
+754,8,F,M,Tier 3,Skincare,Foundation,Social Media,25000,Purchase,200000
+755,8,D,M,Tier 4,Makeup,Lipstick,Online,25000,Click,100000
+756,8,F,M,Tier 1,Makeup,Lipstick,Online,200000,Basket Add,25000
+757,8,F,F,Tier 1,Skincare,Lotions,B&M,25000,Basket Add,200000
+758,8,C,F,Tier 5,Makeup,Serums,Social Media,375000,Basket Add,375000
+759,8,B,F,Tier 4,Makeup,Serums,Social Media,100000,View,200000
+760,8,B,F,Tier 5,Skincare,Foundation,Online,200000,Purchase,750000
+761,8,C,M,Tier 2,Skincare,Foundation,B&M,750000,Click,375000
+762,8,D,F,Tier 2,Skincare,Serums,Online,25000,Purchase,25000
+763,8,E,F,Tier 2,Makeup,Serums,Mobile,375000,Purchase,100000
+764,8,B,F,Tier 5,Makeup,Lotions,B&M,100000,Purchase,25000
+765,8,F,M,Tier 3,Skincare,Lipstick,Mobile,750000,Basket Add,100000
+766,8,A,F,Tier 5,Skincare,Serums,Social Media,750000,Basket Add,100000
+767,8,C,F,Tier 2,Skincare,Lipstick,Social Media,375000,Purchase,200000
+768,8,A,F,Tier 2,Skincare,Serums,Social Media,750000,View,25000
+769,8,E,F,Tier 3,Skincare,Lotions,B&M,25000,Click,375000
+770,8,C,F,Tier 1,Makeup,Foundation,Social Media,375000,Basket Add,200000
+771,8,F,M,Tier 5,Makeup,Lipstick,B&M,25000,Purchase,375000
+772,8,D,M,Tier 1,Makeup,Lipstick,Social Media,25000,Basket Add,25000
+773,8,B,M,Tier 3,Skincare,Serums,Online,750000,View,200000
+774,8,D,M,Tier 1,Makeup,Serums,Mobile,100000,Purchase,750000
+775,8,F,M,Tier 4,Skincare,Lipstick,Online,750000,View,200000
+776,8,B,M,Tier 4,Makeup,Lotions,Social Media,25000,Click,200000
+777,8,F,M,Tier 4,Skincare,Lotions,B&M,100000,Click,375000
+778,8,D,F,Tier 1,Skincare,Foundation,Social Media,100000,Basket Add,200000
+779,8,B,M,Tier 1,Makeup,Lipstick,Mobile,750000,View,750000
+780,8,B,M,Tier 3,Skincare,Serums,Social Media,200000,Purchase,750000
+781,8,C,F,Tier 3,Makeup,Lotions,Online,25000,View,25000
+782,8,A,M,Tier 5,Makeup,Lipstick,Social Media,25000,Basket Add,375000
+783,8,F,M,Tier 5,Makeup,Lipstick,B&M,200000,Purchase,200000
+784,8,C,F,Tier 5,Makeup,Foundation,Online,200000,View,100000
+785,8,B,M,Tier 4,Makeup,Serums,Online,375000,Purchase,375000
+786,8,D,F,Tier 5,Skincare,Foundation,B&M,375000,Basket Add,750000
+787,8,D,F,Tier 2,Skincare,Serums,B&M,750000,Purchase,750000
+788,8,A,F,Tier 3,Makeup,Serums,Social Media,750000,View,750000
+789,8,C,M,Tier 3,Makeup,Lotions,B&M,750000,View,750000
+790,8,B,F,Tier 5,Makeup,Serums,B&M,200000,Purchase,25000
+791,8,C,M,Tier 4,Makeup,Serums,Social Media,25000,Purchase,25000
+792,8,A,F,Tier 1,Makeup,Foundation,Mobile,25000,Basket Add,200000
+793,8,A,M,Tier 1,Makeup,Lipstick,Social Media,375000,Click,100000
+794,8,D,M,Tier 5,Makeup,Serums,Social Media,25000,View,375000
+795,8,A,M,Tier 4,Makeup,Serums,Mobile,200000,Click,200000
+796,8,F,F,Tier 1,Makeup,Lipstick,B&M,375000,Click,750000
+797,8,B,F,Tier 1,Makeup,Lipstick,Social Media,100000,View,200000
+798,8,A,F,Tier 5,Skincare,Lotions,Online,375000,Basket Add,100000
+799,8,D,F,Tier 5,Skincare,Foundation,Social Media,25000,Basket Add,750000
+800,9,B,F,Tier 1,Makeup,Foundation,B&M,200000,Click,200000
+801,9,A,M,Tier 1,Makeup,Serums,Online,750000,View,750000
+802,9,F,M,Tier 3,Makeup,Foundation,Social Media,750000,Basket Add,100000
+803,9,B,F,Tier 2,Skincare,Lotions,Mobile,25000,View,25000
+804,9,F,M,Tier 4,Makeup,Serums,Online,750000,Purchase,25000
+805,9,D,M,Tier 5,Skincare,Lotions,B&M,200000,Purchase,200000
+806,9,F,F,Tier 3,Skincare,Serums,B&M,375000,Click,100000
+807,9,D,M,Tier 4,Skincare,Lotions,B&M,25000,View,25000
+808,9,F,M,Tier 1,Makeup,Lotions,Online,100000,View,750000
+809,9,F,M,Tier 5,Makeup,Serums,Mobile,25000,Basket Add,200000
+810,9,F,M,Tier 4,Skincare,Lotions,B&M,200000,Click,750000
+811,9,C,F,Tier 4,Skincare,Foundation,Social Media,100000,Click,750000
+812,9,F,M,Tier 5,Skincare,Lipstick,Social Media,750000,View,100000
+813,9,A,F,Tier 2,Skincare,Lipstick,Online,375000,Click,375000
+814,9,D,F,Tier 5,Skincare,Lotions,Online,25000,Basket Add,750000
+815,9,F,M,Tier 2,Makeup,Lipstick,Mobile,25000,Basket Add,25000
+816,9,A,F,Tier 1,Makeup,Lipstick,Social Media,375000,View,200000
+817,9,A,M,Tier 2,Makeup,Lipstick,Mobile,750000,View,750000
+818,9,C,F,Tier 1,Skincare,Foundation,B&M,25000,View,750000
+819,9,A,F,Tier 2,Makeup,Foundation,Mobile,200000,View,200000
+820,9,A,M,Tier 5,Makeup,Lotions,Online,750000,Purchase,100000
+821,9,D,M,Tier 4,Makeup,Lipstick,Mobile,375000,View,25000
+822,9,E,M,Tier 3,Makeup,Foundation,Online,750000,Click,750000
+823,9,E,F,Tier 5,Skincare,Foundation,B&M,375000,Click,25000
+824,9,D,F,Tier 4,Makeup,Foundation,B&M,100000,Click,200000
+825,9,D,M,Tier 5,Skincare,Foundation,Online,25000,Basket Add,25000
+826,9,C,M,Tier 2,Skincare,Foundation,Mobile,200000,View,200000
+827,9,A,F,Tier 2,Makeup,Foundation,Mobile,200000,Basket Add,375000
+828,9,B,F,Tier 4,Makeup,Foundation,Mobile,375000,Click,200000
+829,9,A,F,Tier 1,Skincare,Lotions,Online,750000,Basket Add,25000
+830,9,F,F,Tier 1,Makeup,Foundation,Online,100000,View,200000
+831,9,E,F,Tier 5,Makeup,Lipstick,Online,750000,Click,750000
+832,9,C,F,Tier 4,Skincare,Lotions,B&M,750000,View,25000
+833,9,B,M,Tier 4,Skincare,Lipstick,Mobile,750000,View,100000
+834,9,C,F,Tier 3,Skincare,Lipstick,Mobile,100000,Click,100000
+835,9,C,F,Tier 3,Makeup,Serums,Online,375000,Basket Add,100000
+836,9,A,M,Tier 2,Makeup,Lipstick,Online,100000,View,100000
+837,9,F,F,Tier 5,Makeup,Lipstick,Online,200000,Click,750000
+838,9,D,F,Tier 4,Makeup,Foundation,Mobile,200000,Purchase,25000
+839,9,F,F,Tier 4,Makeup,Lotions,Social Media,750000,Click,25000
+840,9,B,M,Tier 1,Makeup,Lipstick,Social Media,100000,Purchase,750000
+841,9,B,F,Tier 5,Makeup,Serums,B&M,25000,Click,750000
+842,9,A,F,Tier 1,Skincare,Serums,Mobile,25000,Purchase,375000
+843,9,C,F,Tier 2,Skincare,Lotions,Social Media,25000,Click,375000
+844,9,B,M,Tier 1,Makeup,Lipstick,Social Media,750000,Click,375000
+845,9,D,M,Tier 5,Makeup,Lotions,B&M,375000,View,750000
+846,9,B,M,Tier 2,Skincare,Foundation,B&M,25000,Basket Add,200000
+847,9,F,M,Tier 4,Makeup,Foundation,Mobile,750000,Purchase,200000
+848,9,F,M,Tier 1,Skincare,Lipstick,B&M,100000,Basket Add,25000
+849,9,E,F,Tier 1,Skincare,Serums,Mobile,375000,Purchase,100000
+850,9,C,F,Tier 1,Makeup,Lotions,Online,750000,Basket Add,375000
+851,9,A,F,Tier 3,Makeup,Foundation,Online,750000,Basket Add,750000
+852,9,E,M,Tier 3,Skincare,Serums,Online,100000,Basket Add,25000
+853,9,E,F,Tier 3,Makeup,Lotions,Mobile,25000,Basket Add,750000
+854,9,C,F,Tier 2,Makeup,Serums,Social Media,750000,Basket Add,750000
+855,9,E,M,Tier 5,Makeup,Foundation,B&M,100000,Basket Add,750000
+856,9,C,F,Tier 4,Skincare,Lipstick,Mobile,750000,View,200000
+857,9,E,M,Tier 1,Makeup,Foundation,Social Media,375000,View,375000
+858,9,B,M,Tier 2,Skincare,Lipstick,Social Media,25000,Purchase,750000
+859,9,D,M,Tier 3,Makeup,Lipstick,B&M,25000,Basket Add,25000
+860,9,B,M,Tier 2,Makeup,Serums,Social Media,375000,Purchase,25000
+861,9,C,F,Tier 3,Skincare,Lipstick,Mobile,100000,Basket Add,25000
+862,9,A,F,Tier 3,Skincare,Lipstick,Mobile,200000,Purchase,100000
+863,9,A,F,Tier 5,Makeup,Serums,B&M,375000,View,100000
+864,9,B,F,Tier 5,Skincare,Lotions,Online,375000,View,100000
+865,9,E,M,Tier 5,Makeup,Foundation,Social Media,100000,Basket Add,100000
+866,9,C,F,Tier 5,Skincare,Foundation,Social Media,200000,Basket Add,750000
+867,9,A,M,Tier 4,Skincare,Lipstick,B&M,375000,Click,200000
+868,9,C,F,Tier 2,Skincare,Lipstick,Social Media,100000,Basket Add,375000
+869,9,F,M,Tier 1,Makeup,Lipstick,B&M,100000,View,200000
+870,9,A,F,Tier 3,Makeup,Foundation,Social Media,200000,Click,100000
+871,9,A,F,Tier 3,Skincare,Lotions,Social Media,200000,Purchase,100000
+872,9,D,M,Tier 5,Makeup,Foundation,Mobile,375000,Purchase,100000
+873,9,A,F,Tier 1,Skincare,Lipstick,Social Media,750000,Basket Add,750000
+874,9,E,F,Tier 2,Skincare,Lotions,Social Media,200000,View,200000
+875,9,D,M,Tier 1,Makeup,Foundation,B&M,375000,Purchase,375000
+876,9,C,F,Tier 5,Skincare,Lipstick,Mobile,200000,Basket Add,200000
+877,9,C,M,Tier 1,Makeup,Lipstick,B&M,25000,View,25000
+878,9,F,F,Tier 2,Skincare,Foundation,B&M,25000,Click,200000
+879,9,F,M,Tier 1,Makeup,Serums,B&M,750000,Click,750000
+880,9,A,F,Tier 4,Skincare,Foundation,Social Media,750000,Basket Add,375000
+881,9,F,M,Tier 5,Skincare,Serums,Mobile,375000,Click,100000
+882,9,B,F,Tier 1,Makeup,Lotions,Social Media,750000,Purchase,200000
+883,9,B,M,Tier 3,Skincare,Lotions,B&M,200000,Purchase,750000
+884,9,F,F,Tier 5,Makeup,Lipstick,Online,100000,Purchase,750000
+885,9,F,M,Tier 5,Skincare,Lipstick,Mobile,100000,Basket Add,25000
+886,9,C,M,Tier 5,Skincare,Lipstick,B&M,200000,Click,100000
+887,9,A,M,Tier 2,Skincare,Foundation,Social Media,200000,Click,25000
+888,9,D,M,Tier 5,Skincare,Foundation,B&M,25000,Purchase,750000
+889,9,E,M,Tier 4,Makeup,Foundation,Social Media,375000,View,750000
+890,9,B,M,Tier 5,Skincare,Lotions,Mobile,375000,Basket Add,100000
+891,9,A,M,Tier 3,Skincare,Lipstick,Mobile,100000,Purchase,25000
+892,9,D,F,Tier 2,Skincare,Foundation,Online,200000,View,750000
+893,9,A,F,Tier 1,Skincare,Lipstick,Social Media,200000,View,25000
+894,9,F,F,Tier 1,Makeup,Lipstick,Online,375000,Basket Add,375000
+895,9,E,F,Tier 5,Makeup,Lipstick,B&M,375000,Basket Add,375000
+896,9,B,F,Tier 2,Makeup,Foundation,Social Media,200000,Click,750000
+897,9,F,F,Tier 2,Skincare,Lotions,Social Media,375000,Basket Add,200000
+898,9,D,F,Tier 5,Skincare,Foundation,Mobile,100000,View,25000
+899,9,C,M,Tier 1,Skincare,Lotions,Online,375000,Click,200000
+900,10,E,F,Tier 3,Skincare,Serums,Online,200000,View,750000
+901,10,F,F,Tier 3,Makeup,Lipstick,Online,750000,Click,750000
+902,10,C,M,Tier 4,Makeup,Foundation,Online,375000,View,200000
+903,10,F,F,Tier 4,Skincare,Foundation,Mobile,25000,Purchase,750000
+904,10,D,M,Tier 3,Makeup,Serums,Online,750000,Purchase,25000
+905,10,A,F,Tier 3,Skincare,Lotions,B&M,375000,Click,750000
+906,10,C,F,Tier 2,Makeup,Foundation,Mobile,750000,Basket Add,100000
+907,10,E,M,Tier 3,Skincare,Lotions,B&M,375000,Purchase,375000
+908,10,D,M,Tier 5,Skincare,Lotions,Mobile,200000,Click,200000
+909,10,B,M,Tier 3,Skincare,Lipstick,B&M,375000,View,100000
+910,10,B,M,Tier 5,Skincare,Serums,Mobile,25000,View,375000
+911,10,F,M,Tier 4,Makeup,Foundation,Online,25000,Purchase,200000
+912,10,F,F,Tier 3,Skincare,Lipstick,B&M,100000,Purchase,200000
+913,10,F,F,Tier 3,Makeup,Lotions,Social Media,100000,Purchase,25000
+914,10,F,M,Tier 2,Skincare,Lipstick,Online,375000,Basket Add,375000
+915,10,E,F,Tier 1,Makeup,Serums,Online,200000,Basket Add,100000
+916,10,E,F,Tier 5,Skincare,Lotions,B&M,25000,Basket Add,750000
+917,10,B,F,Tier 3,Skincare,Lotions,B&M,25000,Basket Add,100000
+918,10,D,F,Tier 4,Skincare,Lipstick,Online,200000,Basket Add,100000
+919,10,E,M,Tier 4,Skincare,Lotions,B&M,100000,View,100000
+920,10,A,F,Tier 4,Skincare,Foundation,B&M,200000,Basket Add,100000
+921,10,A,M,Tier 2,Makeup,Serums,Social Media,200000,Click,375000
+922,10,C,M,Tier 3,Makeup,Serums,B&M,25000,Click,25000
+923,10,A,F,Tier 4,Skincare,Lipstick,Mobile,375000,Click,25000
+924,10,B,M,Tier 1,Skincare,Serums,Mobile,750000,View,25000
+925,10,F,F,Tier 1,Skincare,Lotions,Social Media,200000,View,100000
+926,10,E,M,Tier 5,Makeup,Foundation,B&M,100000,Basket Add,25000
+927,10,D,F,Tier 2,Skincare,Foundation,Online,200000,View,100000
+928,10,C,M,Tier 3,Skincare,Serums,Online,25000,Click,25000
+929,10,B,F,Tier 3,Makeup,Lipstick,Mobile,750000,Purchase,25000
+930,10,F,F,Tier 3,Makeup,Lipstick,Online,100000,Click,200000
+931,10,C,F,Tier 2,Skincare,Serums,Online,25000,Click,25000
+932,10,D,F,Tier 1,Makeup,Lipstick,Mobile,25000,Basket Add,25000
+933,10,C,F,Tier 3,Makeup,Foundation,B&M,100000,Basket Add,750000
+934,10,C,F,Tier 5,Skincare,Foundation,B&M,100000,View,750000
+935,10,F,M,Tier 3,Skincare,Lotions,B&M,750000,Basket Add,375000
+936,10,F,M,Tier 3,Skincare,Foundation,Social Media,100000,Basket Add,200000
+937,10,C,M,Tier 2,Makeup,Serums,B&M,100000,View,750000
+938,10,F,F,Tier 1,Skincare,Lotions,Social Media,200000,Purchase,375000
+939,10,F,M,Tier 4,Skincare,Lotions,B&M,750000,Purchase,375000
+940,10,C,F,Tier 2,Skincare,Foundation,Social Media,750000,Click,25000
+941,10,D,F,Tier 1,Makeup,Lotions,Online,100000,Purchase,100000
+942,10,D,M,Tier 4,Makeup,Serums,B&M,25000,Click,100000
+943,10,A,M,Tier 2,Makeup,Lotions,Mobile,100000,Basket Add,200000
+944,10,D,F,Tier 3,Makeup,Lipstick,Social Media,200000,View,25000
+945,10,F,F,Tier 1,Skincare,Serums,Mobile,25000,Purchase,750000
+946,10,C,M,Tier 3,Makeup,Foundation,B&M,25000,Purchase,750000
+947,10,A,F,Tier 3,Skincare,Lotions,B&M,100000,Click,750000
+948,10,B,M,Tier 4,Makeup,Lotions,Social Media,25000,View,375000
+949,10,C,M,Tier 5,Skincare,Serums,B&M,100000,View,375000
+950,10,A,M,Tier 1,Skincare,Lotions,Social Media,100000,Click,375000
+951,10,D,F,Tier 2,Skincare,Lipstick,Online,100000,Basket Add,375000
+952,10,D,F,Tier 5,Makeup,Lotions,B&M,200000,View,25000
+953,10,B,F,Tier 1,Skincare,Lipstick,Mobile,25000,View,750000
+954,10,C,F,Tier 1,Skincare,Lipstick,Mobile,25000,View,100000
+955,10,C,M,Tier 2,Skincare,Serums,B&M,100000,Click,375000
+956,10,E,F,Tier 2,Skincare,Lotions,Mobile,200000,Basket Add,750000
+957,10,A,M,Tier 2,Makeup,Serums,Online,200000,Purchase,100000
+958,10,E,M,Tier 3,Skincare,Foundation,Mobile,25000,Purchase,200000
+959,10,B,F,Tier 3,Skincare,Serums,Social Media,25000,Click,25000
+960,10,C,M,Tier 3,Skincare,Serums,Online,200000,View,750000
+961,10,F,M,Tier 4,Skincare,Foundation,B&M,375000,View,375000
+962,10,D,F,Tier 5,Skincare,Lipstick,Mobile,750000,View,375000
+963,10,F,M,Tier 3,Makeup,Foundation,Social Media,100000,Click,750000
+964,10,D,M,Tier 1,Skincare,Lotions,Online,25000,Purchase,375000
+965,10,E,F,Tier 3,Skincare,Foundation,Social Media,750000,Click,25000
+966,10,A,M,Tier 5,Makeup,Foundation,Social Media,25000,Basket Add,25000
+967,10,C,F,Tier 1,Skincare,Lipstick,Social Media,200000,Click,100000
+968,10,B,F,Tier 5,Makeup,Lotions,Social Media,200000,Purchase,375000
+969,10,D,M,Tier 1,Makeup,Lipstick,Mobile,375000,Basket Add,375000
+970,10,A,M,Tier 5,Skincare,Foundation,Mobile,200000,Purchase,375000
+971,10,A,M,Tier 1,Skincare,Lipstick,B&M,750000,Purchase,375000
+972,10,C,M,Tier 4,Skincare,Lipstick,Online,375000,Click,750000
+973,10,B,M,Tier 3,Makeup,Lotions,Mobile,100000,View,750000
+974,10,D,M,Tier 4,Makeup,Foundation,Mobile,750000,Click,200000
+975,10,F,M,Tier 4,Skincare,Lotions,B&M,375000,Basket Add,375000
+976,10,B,M,Tier 2,Makeup,Lotions,Online,200000,View,100000
+977,10,A,M,Tier 3,Skincare,Lotions,B&M,100000,Click,750000
+978,10,C,F,Tier 5,Skincare,Foundation,Social Media,100000,Click,25000
+979,10,F,M,Tier 4,Skincare,Foundation,B&M,200000,Click,375000
+980,10,B,F,Tier 4,Skincare,Foundation,Online,100000,Click,750000
+981,10,A,F,Tier 1,Makeup,Foundation,Online,25000,Purchase,100000
+982,10,E,M,Tier 3,Makeup,Foundation,B&M,200000,Basket Add,200000
+983,10,D,M,Tier 5,Makeup,Lotions,Social Media,750000,View,25000
+984,10,B,F,Tier 4,Makeup,Lotions,B&M,200000,Purchase,750000
+985,10,C,F,Tier 2,Makeup,Lipstick,Online,200000,Basket Add,100000
+986,10,B,M,Tier 1,Skincare,Lipstick,Mobile,25000,Basket Add,100000
+987,10,E,F,Tier 2,Makeup,Lipstick,Social Media,100000,Basket Add,375000
+988,10,F,M,Tier 4,Makeup,Lipstick,B&M,750000,Basket Add,25000
+989,10,D,F,Tier 3,Skincare,Lipstick,Online,25000,Click,100000
+990,10,A,M,Tier 2,Makeup,Lotions,B&M,25000,Purchase,100000
+991,10,F,M,Tier 2,Skincare,Serums,Online,375000,Purchase,100000
+992,10,F,M,Tier 4,Makeup,Serums,B&M,100000,Click,100000
+993,10,A,M,Tier 3,Skincare,Lipstick,Online,750000,Click,200000
+994,10,C,F,Tier 1,Makeup,Foundation,B&M,25000,Click,200000
+995,10,F,F,Tier 5,Skincare,Lotions,Online,750000,Click,375000
+996,10,F,M,Tier 5,Skincare,Lipstick,Social Media,100000,View,750000
+997,10,B,M,Tier 1,Makeup,Lipstick,Mobile,100000,View,750000
+998,10,F,M,Tier 1,Makeup,Lipstick,Online,100000,Purchase,750000
+999,10,F,F,Tier 4,Makeup,Foundation,Mobile,100000,Basket Add,200000
