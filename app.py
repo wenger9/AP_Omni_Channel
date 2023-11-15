@@ -131,9 +131,9 @@ with st.sidebar:
 # The Hero Section
 with hero:
     st.markdown("""<div style="position:relative; margin: auto; text-align: center;">
-              <img src="logo.png" width=56>
+              <img src="/logo.png" width=56>
             </div>""", unsafe_allow_html=True)
-    st.markdown('<h1 style="text-align:center; position:relative; top:40%;">Beauty Bytes: The Omni Channel DasbhoardA</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 style="text-align:center; position:relative; top:40%;">Beauty Bytes: Omni Channel Dasbhoard</h1>', unsafe_allow_html=True)
 
 # The Top Row
 with topRow:
