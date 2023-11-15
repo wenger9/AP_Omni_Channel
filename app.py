@@ -4,7 +4,7 @@ import plotly.express as px
 
 # the layout Variables
 st.set_page_config(page_title="Beauty Bytes: Omni Channel Dashboard", 
-                   page_icon="https://shiftermagazine.com/wp-content/uploads/2019/05/Webp.net-resizeimage-1-1-750x400.jpg",
+                   page_icon="https://imgur.com/AmWeqBW",
                    initial_sidebar_state="expanded",
                    )
 
@@ -131,7 +131,7 @@ with st.sidebar:
 # The Hero Section
 with hero:
     st.markdown("""<div style="position:relative; margin: auto; text-align: center;">
-              <img src="https://shiftermagazine.com/wp-content/uploads/2019/05/Webp.net-resizeimage-1-1-750x400.jpg" width=56>
+              <img src="https://imgur.com/AmWeqBW" width=56>
             </div>""", unsafe_allow_html=True)
     st.markdown('<h1 style="text-align:center; position:relative; top:40%;">Beauty Bytes: Omni Channel Dasbhoard</h1>', unsafe_allow_html=True)
 
