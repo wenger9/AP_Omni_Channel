@@ -131,7 +131,7 @@ with st.sidebar:
 # The Hero Section
 with hero:
     st.markdown("""<div style="position:relative; margin: auto; text-align: center;">
-              <img src="https://www.ranklogos.com/wp-content/uploads/2014/10/The-Estee-Lauder-Companies-Logo.jpg" width=56>
+              <img src="log.png" width=56>
             </div>""", unsafe_allow_html=True)
     st.markdown('<h1 style="text-align:center; position:relative; top:40%;">Super Store DATA</h1>', unsafe_allow_html=True)
 
