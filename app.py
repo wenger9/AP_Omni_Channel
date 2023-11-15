@@ -4,7 +4,7 @@ import plotly.express as px
 
 # the layout Variables
 st.set_page_config(page_title="Beauty Bytes: Omni Channel Dashboard", 
-                   page_icon="logo.jpeg",
+                   page_icon="logo.png",
                    initial_sidebar_state="expanded",
                    )
 
