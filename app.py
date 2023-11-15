@@ -4,7 +4,7 @@ import plotly.express as px
 
 # the layout Variables
 st.set_page_config(page_title="Beauty Bytes: Omni Channel Dashboard", 
-                   page_icon="/logo.png",
+                   page_icon="logo.png",
                    initial_sidebar_state="expanded",
                    )
 
@@ -131,7 +131,7 @@ with st.sidebar:
 # The Hero Section
 with hero:
     st.markdown("""<div style="position:relative; margin: auto; text-align: center;">
-              <img src="/logo.png" width=56>
+              <img src="logo.png" width=56>
             </div>""", unsafe_allow_html=True)
     st.markdown('<h1 style="text-align:center; position:relative; top:40%;">Beauty Bytes: Omni Channel Dasbhoard</h1>', unsafe_allow_html=True)
 
